@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dat.sem3</groupId>
-    <artifactId>rest-jpa-devops-starter</artifactId>
-    <version>1.0.1</version>
+    <artifactId>moviedb</artifactId>
+    <version></version>
     <packaging>war</packaging>
 
-    <name>jpa-rest-devops-starter</name>
+    <name>moviedb</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
